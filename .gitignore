@@ -1,0 +1,14 @@
+# Virtual environment
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data & models (managed by DVC)
+data/
+models/
+
+# DVC cache
+.dvc/cache/
+*.dvc
